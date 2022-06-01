@@ -8,10 +8,10 @@
 }
 
 .body {
-  width: 1440px;
-  height: 800px;
+  width: 375px;
+  height: 667px;
   margin-top: 1px;
-  margin-left: 1958px;
+  margin-left: 1467px;
   font-family: "Outfit", sans-serif;
   font-size: 15px;
   display: flex;
@@ -34,20 +34,16 @@
   padding: 10px;
   width: 320px;
   height: 497px;
-  top: 151px;
-  left: 560px;
+  top: 85px;
+  left: 28px;
   align-content: center;
-  margin-top: 151px;
-  margin-left: 560px;
-  margin-right: 560px;
-  margin-bottom: 152px;
 }
 
 .qr_img {
   width: 288px;
   height: 250px;
-  top: 168px;
-  left: 576px;
+  top: 101px;
+  left: 44px;
   max-width: 100%;
   border-radius: 10px;
   overflow: hidden;
